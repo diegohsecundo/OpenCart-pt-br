@@ -78,4 +78,5 @@ $_['text_voucher_theme']               = 'Temas';
 $_['text_weight_class']                = 'Unidades de Pesos';
 $_['text_length_class']                = 'Unidades de Medidas';
 $_['text_zone']                        = 'Estados';
+$_['text_filter']                      = 'Filtros';
 ?>
